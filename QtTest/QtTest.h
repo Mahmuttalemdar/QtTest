@@ -13,4 +13,5 @@ public:
 private:
 	Ui::QtTestClass ui;
 	int a = 4;
+	int b = 7;
 };
