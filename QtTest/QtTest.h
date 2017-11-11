@@ -12,4 +12,5 @@ public:
 
 private:
 	Ui::QtTestClass ui;
+	int a = 4;
 };
